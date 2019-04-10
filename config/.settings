@@ -1,0 +1,17 @@
+{
+    "projectName": "Demo1",
+    "username": "nagarjung@coreflex.com",
+    "id": "f1d8ec10-5b74-11e9-98f3-1f47a78dafda",
+    "namespace": "nrg",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://nagarjunag8794-dev-ed.my.salesforce.com",
+    "workspace": "E://MavensMate",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}
